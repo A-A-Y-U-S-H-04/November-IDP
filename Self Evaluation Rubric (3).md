@@ -38,9 +38,9 @@ Put an 'X' inside the square brackets next to the above option that most closely
 For each of the following, put an 'X' inside the square brackets if it applies.
 
 - [x] I understood what I was supposed to do for this project.
-- [ ] I understood the language elements I was meant to use for this project. 
-- [ ] I can see how each of the six things (concepts) could be used on tihs project.  
-- [ ] My code is easy for *anyone* to read. 
+- [ x] I understood the language elements I was meant to use for this project. 
+- [x ] I can see how each of the six things (concepts) could be used on tihs project.  
+- [ x] My code is easy for *anyone* to read. 
 
 ## Habits
 
@@ -49,9 +49,9 @@ For each of the following, put an 'X' inside the square brackets if it applies.
 For each of the following, put an 'X' inside the square brackets if it applies.
 
 - [x] I demonstrate consideration of the potential users of my project. 
-- [ ] My project is visually coherent.
-- [ ] My project was developed thoughtfully.
-- [ ] I envision this project as being something beyond an academic exercise. 
+- [x ] My project is visually coherent.
+- [x ] My project was developed thoughtfully.
+- [x ] I envision this project as being something beyond an academic exercise. 
 
 ### Diligence (HiD)
 
@@ -95,9 +95,9 @@ For each of the following, put an 'X' inside the square brackets if it applies.
 ### Originality (HiD)
 
 My final product is, to the best of my knowledge and ability:
-- [x] completely novel
+- [] completely novel
 - [ ] a fairly unique twist on something I'd seen
-- [ ] a fancy remix
+- [ x] a fancy remix
 - [ ] kind of a retread
 - [ ] superficially unique
 - [ ] something other 
